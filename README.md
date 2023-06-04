@@ -13,7 +13,7 @@ I am a Full-Stack Developer from India.</h3>
 
 - ⚡ In my spare time, **I solve problems on GeeksforGeeks ,Leetcode and do other activities to improve my skills.**
 
-- 📫 How to reach me: [https://www.linkedin.com/in/lokesh-jindal-a91a14246/](https://www.linkedin.com/in/lokesh-jindal-a91a14246/)
+- 📫 How to reach me: [https://www.linkedin.com/in/lokesh-jindal04/](https://www.linkedin.com/in/lokesh-jindal04/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
