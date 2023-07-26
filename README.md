@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋, I'm Lokesh Jindal</h1>
+<h1 align="center">Hey There 👋, I'm Lokesh Kumar</h1>
 <hr>
 
 <img align="centre" alt="coding" width="1200" height="500" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
