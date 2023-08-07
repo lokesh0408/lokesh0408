@@ -11,7 +11,7 @@ I am a Full-Stack Developer from India.</h3>
 
 - 🌱 Exploring Skills and Technologies.
 
-- ⚡ In my spare time, **I solve problems on GeeksforGeeks ,Leetcode and do other activities to improve my skills.**
+- ⚡ In my spare time, **I solve more complex problems on GeeksforGeeks ,Leetcode to improve my skills.**
 
 - 📫 How to reach me: [https://www.linkedin.com/in/lokesh-kumar04/](https://www.linkedin.com/in/lokesh-kumar04/)
 
