@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🔭 I’m Currently a Student Of Chitkara University B Tech(CSE).
+- 🔭 I have completed my Bachelor of Technology (B.Tech) in Computer Science and Engineering from Chitkara University.
 
 - 🌱 Exploring Skills and Technologies.
 
