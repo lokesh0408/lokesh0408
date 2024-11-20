@@ -29,12 +29,12 @@ I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/lokesh-kumar04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-jindal-a91a14246/" height="18" width="28" /></a>
 ---
 
-<p align="left">
-<h3 align="left">Connect with me:
-<!-- <a href="https://www.linkedin.com/in/lokesh-kumar04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-jindal-a91a14246/" height="30" width="40" /></a> -->
+<!-- <p align="left"> -->
+<!-- <h3 align="left">Connect with me:
+<a href="https://www.linkedin.com/in/lokesh-kumar04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-kumar04/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lokesh0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokesh0408" height="25" width="40" /></a>
-</h3>
-</p>
+</h3> -->
+<!-- </p> -->
 
 <hr>
 
